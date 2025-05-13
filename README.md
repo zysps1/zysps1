@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zysps1
 - 👀 I’m interested in ALL.
-- 🌱 I’m currently learning UAV algorithms.
+- 🌱 I’m currently learning math+AI+communication+networking+UAV.
 - 📫 How to reach me: yuanshuaizheng@link.cuhk.edu.cn
 
 <!---
